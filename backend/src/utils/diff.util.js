@@ -12,6 +12,3 @@ export const computeDiff = (oldData = {}, newData = {}) => {
 
   return diff;
 };
-
-
-
